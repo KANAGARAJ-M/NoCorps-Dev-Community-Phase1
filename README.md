@@ -159,3 +159,8 @@ background: linear-gradient(135deg, #0F172A 0%, #1E293B 50%, #1E40AF 100%);
 - **Payment** : Users can pay for their premium subscription using credit/debit cards, PayPal, stripe, or other supported payment methods.
 - **Skill Exam Payment** : Users can pay for their skill exam using credit/debit cards, PayPal, stripe, or other supported payment methods. Every attempt will require a payment. payment will based on the Skill Exam Price. For example, Java Basic Skill exam price is $6.19 per attempt. Java Intermediate exam price is $15.49 per attempt, etc. If user passed(85/100) the exam Then automatically add the Skill badge in the user profile.
 
+
+⚠️ COPYRIGHT / USAGE NOTICE
+
+This repository is public for visibility, but it is NOT licensed for reuse.  
+All rights reserved. You do NOT have permission to copy, modify, redistribute, or use this code without express written permission from the author. Contact <support@nocorps.org>.
